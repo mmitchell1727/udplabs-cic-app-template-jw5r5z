@@ -15,7 +15,7 @@ const config = {
 		port: 3000,
 	},
 	server: {
-		permissions: ['authRocks'],
+		permissions: ['authrocks'],
 	},
 };
 
